@@ -1,0 +1,1 @@
+This week you got an introduction to Machine Learning in the browser with TensorFlow.js. You saw how to build your first basic model -- an iris classifier -- by reading data from a CSV, one hot encoding the labels, and then training a model to recognize future data as a type of Iris plant.
